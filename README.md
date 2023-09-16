@@ -138,33 +138,30 @@ The program will display the size of the matrices, the block size, and the resul
 
    ![image](https://github.com/JyothiNarsini/SE23MAID012_1/assets/88646255/630d27de-fe84-4004-95d5-009e7cd374bb)
 
-
    ![image](https://github.com/JyothiNarsini/SE23MAID012_1/assets/88646255/2ea630a8-09e9-4710-bcda-f784f23770be)
-
 
    ![image](https://github.com/JyothiNarsini/SE23MAID012_1/assets/88646255/4ed465e9-c2de-4d51-b0b7-890507176fc0)
 
-
    ![image](https://github.com/JyothiNarsini/SE23MAID012_1/assets/88646255/d025cca8-2ba1-4bf1-b139-a41797fffe7f)
 
+   ![image](https://github.com/JyothiNarsini/SE23MAID012_1/assets/88646255/20d71251-0b6b-4fd9-b5eb-a22c99848018)
 
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/64005011-d04f-4165-8319-91cf1d66f3b9)
+   ![image](https://github.com/JyothiNarsini/SE23MAID012_1/assets/88646255/6debdb8f-6edc-47ae-a296-1a55764c2cab)
 
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/0dde34b3-ec13-4e2b-9269-fa65f005160e)
+   ![image](https://github.com/JyothiNarsini/SE23MAID012_1/assets/88646255/1d84bf3e-f49d-4844-859c-ad58b0bf44e0)
 
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/d39c0483-5764-4dea-969a-6d596d28e5ae)
+   ![image](https://github.com/JyothiNarsini/SE23MAID012_1/assets/88646255/8cedbfb5-54a4-4a24-acb4-57a682130733)
 
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/cd67a740-fb3d-49e7-9001-050569986a69)
+   ![image](https://github.com/JyothiNarsini/SE23MAID012_1/assets/88646255/32d74c9d-dc57-484c-9cfe-49a996b75de2)
 
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/98ddcaf1-c381-4a03-a67e-b9f19141cadb)
+   ![image](https://github.com/JyothiNarsini/SE23MAID012_1/assets/88646255/a11d5348-a9d8-4eac-8c59-b487b5d18978)
 
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/34dfaa23-6cd4-4322-a168-2690fc74468c)
    
 3. **Nth Power of Matrix with BMM ( Threads vs Elapsed Time )** :
 
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/4c067ed1-f485-4c5b-aea5-44c60c960e50)
+   ![image](https://github.com/JyothiNarsini/SE23MAID012_1/assets/88646255/0342a33b-71e7-46d8-8ad8-b9e0a5d1f00b)
 
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/09d91bf5-cd2e-4a7d-98b1-e2e729f938ba)
+   ![image](https://github.com/JyothiNarsini/SE23MAID012_1/assets/88646255/9f788282-7e9a-496a-8194-743cd2d04853)
 
 
 ## Memory Management
